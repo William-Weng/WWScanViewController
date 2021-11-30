@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "WWPrint",
+        "repositoryURL": "https://github.com/William-Weng/WWPrint",
+        "state": {
+          "branch": null,
+          "revision": "e4ad2863717465f224aa676f10a3a7ff1df58f7c",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "WWScanViewController",
+        "repositoryURL": "/Users/william/Desktop/WWScanViewController",
+        "state": {
+          "branch": "master",
+          "revision": "fb825e50e48c474bd16127a8732971055e34d440",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
